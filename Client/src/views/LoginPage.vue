@@ -14,7 +14,7 @@ export default {
             <div class="container-fluid h-custom">
                 <div class="row d-flex justify-content-center align-items-center h-100">
                     <div class="col-md-9 col-lg-6 col-xl-5" style="border-right:1px solid #ccc">
-                        <img src="https://images.unsplash.com/photo-1544716278-e513176f20b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" class="img-fluid" alt="Sample image">
+                        <img src="https://img1.kienthucvui.vn/uploads/2021/05/28/anh-thu-vien-dep_104915255.jpg" class="img-fluid" alt="Sample image">
                     </div>
             
                     <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
