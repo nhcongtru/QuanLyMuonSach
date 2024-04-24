@@ -81,11 +81,11 @@ export default {
             <!-- Title Input -->
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold">Tên nhà xuất bản: </label>
-                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Vui lòng nhập vào tên tác giả..." v-model="PublisherDataInput.publisher_name" required>
+                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Vui lòng nhập vào tên nhà xuất bản..." v-model="PublisherDataInput.publisher_name" required>
             </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold">Địa chỉ nhà xuất bản: </label>
-                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Vui lòng nhập vào tên tác giả..." v-model="PublisherDataInput.address" required>
+                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Vui lòng nhập vào địa chỉ..." v-model="PublisherDataInput.address" required>
             </div>
 
             <button @click="handleEditPublisher()" type="submit" class="btn btn-light fw-bold" style="padding: 10px;;border:1px solid #ccc">Xác Nhận</button>

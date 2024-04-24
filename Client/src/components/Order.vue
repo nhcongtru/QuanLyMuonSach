@@ -188,7 +188,7 @@ export default {
                 </td>
                 <td>
                     <button @click="editOrder(item._id)" type="button" class="btn btn-danger"> <i
-                            class="fa-solid fa-file-pen"></i> Sửa</button>
+                            class="fa-solid fa-file-pen"></i> Cập nhật</button>
                 </td>
             </tr>
         </tbody>
